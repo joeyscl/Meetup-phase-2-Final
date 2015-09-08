@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Users\Joey\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-simple\1.6.1\58e59bfb3e247097b8122243b3bfe0049c8cfae8\slf4j-simple-1.6.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="58e59bfb3e247097b8122243b3bfe0049c8cfae8">
+        <dex dex="D:\Users\Joey\Dropbox\CPSC 210\Meetup phase 2 Final\app\build\intermediates\pre-dexed\debug\slf4j-simple-1.6.1-d18085fe819c6f3de4327ac6cb1936fc77d91775.jar" />
+    </item>
+    <item
+        jar="D:\Users\Joey\Dropbox\CPSC 210\Meetup phase 2 Final\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\Users\Joey\Dropbox\CPSC 210\Meetup phase 2 Final\app\build\intermediates\pre-dexed\debug\classes-2cadbdb4c83601a5e0df1f1c8d3f0520112e4344.jar" />
+    </item>
+    <item
+        jar="D:\Users\Joey\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.6.1\6f3b8a24bf970f17289b234284c94f43eb42f0e4\slf4j-api-1.6.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6f3b8a24bf970f17289b234284c94f43eb42f0e4">
+        <dex dex="D:\Users\Joey\Dropbox\CPSC 210\Meetup phase 2 Final\app\build\intermediates\pre-dexed\debug\slf4j-api-1.6.1-3d346cb4c8f6044c53ea93be69ca61d94cb91cff.jar" />
+    </item>
+    <item
+        jar="D:\Users\Joey\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\Users\Joey\Dropbox\CPSC 210\Meetup phase 2 Final\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-f3671dafaccbe3f3acc89279909303ec6ee9f1a2.jar" />
+    </item>
+    <item
+        jar="D:\Users\Joey\.gradle\caches\modules-2\files-2.1\org.osmdroid\osmdroid-android\4.2\f3a0c73a9ed04a5d0959789c53da9f08462bfcc2\osmdroid-android-4.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f3a0c73a9ed04a5d0959789c53da9f08462bfcc2">
+        <dex dex="D:\Users\Joey\Dropbox\CPSC 210\Meetup phase 2 Final\app\build\intermediates\pre-dexed\debug\osmdroid-android-4.2-16cbad9b3f36bc6c598c529b29a942d896a4eb3d.jar" />
+    </item>
+    <item
+        jar="D:\Users\Joey\Dropbox\CPSC 210\Meetup phase 2 Final\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\Users\Joey\Dropbox\CPSC 210\Meetup phase 2 Final\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-95e654e73d61f2fab22addf201fdf67f090564d9.jar" />
+    </item>
+    <item
+        jar="D:\Users\Joey\Dropbox\CPSC 210\Meetup phase 2 Final\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="D:\Users\Joey\Dropbox\CPSC 210\Meetup phase 2 Final\app\build\intermediates\pre-dexed\debug\classes-86e9e11147257597fbd4d03832d2a311b4daee0f.jar" />
+    </item>
+
+</items>
